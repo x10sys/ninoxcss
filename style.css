@@ -7,6 +7,14 @@ body{ top: -130px; }
     height: 100vh;
 }
 .popupeditor2{ top: 46px !important }
+
+
+.root-body {
+    top: 178px;
+}
+.root-controls {
+    top: 130px;
+}
 /* trial */
 
 /* sakrivanje plusića kod odabirnog polja (kako bi korisnici prvo tražili postojeće) */
