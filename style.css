@@ -1,15 +1,15 @@
 /* trial */
 
 body{ top: -130px; }
-.Backplane_root{top: 130px}
+/* .Backplane_root{top: 130px} */
 .react-root-sliding-header{margin-top: 130px; !important}
-/* 
+
 .stringeditor-aux.dp.date, .stringeditor-aux.dp.time, .choice-menu,.rd-pane, .stringeditor-aux.dp.timestamp, .bm-menu-wrap, .bm-overlay, .root {
     margin-top: 130px !important;
 }
 .PopupMenu_root {
     margin-top: 260px !important;
-} */
+}
 
 .rd-pane {
     height: 100vh;
